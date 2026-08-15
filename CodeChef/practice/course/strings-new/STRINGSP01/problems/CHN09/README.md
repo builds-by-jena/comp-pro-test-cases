@@ -73,3 +73,4 @@ baaba
 | 1 | cc_1786771234951 | 8/15/2026, 10:50:40 AM | ✅ Accepted | 0 ms | 0 KB | Java | [`cc_1786771234951_Attempt_1_AC.java`](./cc_1786771234951_Attempt_1_AC.java) |
 | 2 | cc_1786771262884 | 8/15/2026, 10:51:08 AM | ❌ Wrong Answer | 0 ms | 0 KB | PyPy 3 | [`cc_1786771262884_Attempt_2_WA.py`](./cc_1786771262884_Attempt_2_WA.py) |
 | 3 | cc_1786771262884 | 8/15/2026, 10:51:12 AM | ❌ Wrong Answer | 0 ms | 0 KB | PyPy 3 | [`cc_1786771262884_Attempt_3_WA.py`](./cc_1786771262884_Attempt_3_WA.py) |
+| 4 | cc_1786771282101 | 8/15/2026, 10:51:26 AM | ❌ Wrong Answer | 0 ms | 0 KB | JavaScript | [`cc_1786771282101_Attempt_4_WA.js`](./cc_1786771282101_Attempt_4_WA.js) |

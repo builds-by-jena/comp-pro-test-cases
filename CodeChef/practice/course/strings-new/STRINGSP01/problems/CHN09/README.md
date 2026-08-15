@@ -71,3 +71,4 @@ baaba
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | cc_1786771234951 | 8/15/2026, 10:50:40 AM | ✅ Accepted | 0 ms | 0 KB | Java | [`cc_1786771234951_Attempt_1_AC.java`](./cc_1786771234951_Attempt_1_AC.java) |
+| 2 | cc_1786771262884 | 8/15/2026, 10:51:08 AM | ❌ Wrong Answer | 0 ms | 0 KB | PyPy 3 | [`cc_1786771262884_Attempt_2_WA.py`](./cc_1786771262884_Attempt_2_WA.py) |

@@ -38,3 +38,4 @@ Explanation: The element to be searched is 6 and it is not present, so we return
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | gfg_1786769015703 | 8/15/2026, 10:13:41 AM | ✅ Accepted | 0 ms | 0 KB | C++ | [`gfg_1786769015703_Attempt_1_AC.cpp`](./gfg_1786769015703_Attempt_1_AC.cpp) |
 | 2 | gfg_1786769087620 | 8/15/2026, 10:14:51 AM | ❌ Compilation Error | 0 ms | 0 KB | C++ | [`gfg_1786769087620_Attempt_2_CE.cpp`](./gfg_1786769087620_Attempt_2_CE.cpp) |
+| 3 | gfg_1786769240213 | 8/15/2026, 10:17:26 AM | ❌ Runtime Error | 0 ms | 0 KB | C++ | [`gfg_1786769240213_Attempt_3_RTE.cpp`](./gfg_1786769240213_Attempt_3_RTE.cpp) |

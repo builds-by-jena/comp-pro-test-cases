@@ -41,3 +41,4 @@ no
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | ck_1786772963618 | 8/15/2026, 11:19:24 AM | ✅ Accepted | 0 ms | 0 KB | PYTHON 3 | [`ck_1786772963618_Attempt_1_AC.py`](./ck_1786772963618_Attempt_1_AC.py) |
 | 2 | ck_1786773159643 | 8/15/2026, 11:22:41 AM | ❌ Wrong Answer | 0 ms | 0 KB | PYTHON 3 | [`ck_1786773159643_Attempt_2_WA.py`](./ck_1786773159643_Attempt_2_WA.py) |
+| 3 | ck_1786773180751 | 8/15/2026, 11:23:02 AM | ❌ Wrong Answer | 0 ms | 0 KB | JAVA 8 | [`ck_1786773180751_Attempt_3_WA.java`](./ck_1786773180751_Attempt_3_WA.java) |

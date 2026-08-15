@@ -55,3 +55,4 @@ O(n2)
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2107201053 | 8/15/2026, 9:55:48 AM | ✅ Accepted | 0 ms | 0 KB | C++ | [`2107201053_Attempt_1_AC.cpp`](./2107201053_Attempt_1_AC.cpp) |
+| 2 | 2107201813 | 8/15/2026, 9:57:04 AM | ❌ Compile Error | 0 ms | 0 KB | C++ | [`2107201813_Attempt_2_CE.cpp`](./2107201813_Attempt_2_CE.cpp) |

@@ -40,3 +40,4 @@ no
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | ck_1786772963618 | 8/15/2026, 11:19:24 AM | ✅ Accepted | 0 ms | 0 KB | PYTHON 3 | [`ck_1786772963618_Attempt_1_AC.py`](./ck_1786772963618_Attempt_1_AC.py) |
+| 2 | ck_1786773159643 | 8/15/2026, 11:22:41 AM | ❌ Wrong Answer | 0 ms | 0 KB | PYTHON 3 | [`ck_1786773159643_Attempt_2_WA.py`](./ck_1786773159643_Attempt_2_WA.py) |

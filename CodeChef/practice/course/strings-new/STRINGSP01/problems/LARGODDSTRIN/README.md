@@ -71,3 +71,4 @@ Or -1 if no odd substring exists
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | cc_1786770660900 | 8/15/2026, 10:41:08 AM | ❌ Wrong Answer | 0 ms | 0 KB | Python3 | [`cc_1786770660900_Attempt_1_WA.py`](./cc_1786770660900_Attempt_1_WA.py) |
+| 2 | cc_1786770660900 | 8/15/2026, 10:41:12 AM | ❌ Wrong Answer | 0 ms | 0 KB | Python3 | [`cc_1786770660900_Attempt_2_WA.py`](./cc_1786770660900_Attempt_2_WA.py) |

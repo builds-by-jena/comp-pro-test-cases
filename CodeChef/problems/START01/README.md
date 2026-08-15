@@ -60,3 +60,4 @@ Standard Output
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | cc_1786769319291 | 8/15/2026, 10:18:40 AM | ❌ Time Limit Exceeded | 0 ms | 0 KB | Python3 | [`cc_1786769319291_Attempt_1_TLE.py`](./cc_1786769319291_Attempt_1_TLE.py) |
+| 2 | cc_1786769330235 | 8/15/2026, 10:18:52 AM | ❌ Time Limit Exceeded | 0 ms | 0 KB | Python3 | [`cc_1786769330235_Attempt_2_TLE.py`](./cc_1786769330235_Attempt_2_TLE.py) |

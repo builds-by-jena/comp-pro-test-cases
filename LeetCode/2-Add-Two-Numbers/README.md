@@ -80,3 +80,4 @@ You may assume the two numbers do not contain any leading zero, except the numbe
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 2107202465 | 8/15/2026, 9:58:05 AM | ✅ Accepted | 0 ms | 0 KB | Python | [`2107202465_Attempt_1_AC.py`](./2107202465_Attempt_1_AC.py) |
+| 2 | 2107209994 | 8/15/2026, 10:09:51 AM | ✅ Accepted | 0 ms | 0 KB | Python | [`2107209994_Attempt_2_AC.py`](./2107209994_Attempt_2_AC.py) |

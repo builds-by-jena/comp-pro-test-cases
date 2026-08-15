@@ -72,3 +72,4 @@ Or -1 if no odd substring exists
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | cc_1786770660900 | 8/15/2026, 10:41:08 AM | ❌ Wrong Answer | 0 ms | 0 KB | Python3 | [`cc_1786770660900_Attempt_1_WA.py`](./cc_1786770660900_Attempt_1_WA.py) |
 | 2 | cc_1786770660900 | 8/15/2026, 10:41:12 AM | ❌ Wrong Answer | 0 ms | 0 KB | Python3 | [`cc_1786770660900_Attempt_2_WA.py`](./cc_1786770660900_Attempt_2_WA.py) |
+| 3 | cc_1786770715002 | 8/15/2026, 10:42:00 AM | ✅ Accepted | 0 ms | 0 KB | Python3 | [`cc_1786770715002_Attempt_3_AC.py`](./cc_1786770715002_Attempt_3_AC.py) |

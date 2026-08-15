@@ -46,3 +46,4 @@ For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | 387102354 | Aug/15/2026 09:48UTC+5.5 | ✅ Accepted | 468 ms | 1600 KB | Java 21 | [`387102354_Attempt_1_AC.java`](./387102354_Attempt_1_AC.java) |
+| 2 | 387102417 | Aug/15/2026 09:49UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | Java 21 | [`387102417_Attempt_2_CE.java`](./387102417_Attempt_2_CE.java) |

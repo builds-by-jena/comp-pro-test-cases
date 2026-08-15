@@ -78,3 +78,4 @@ No
 | 1 | cc_1786770858128 | 8/15/2026, 10:44:23 AM | ✅ Accepted | 0 ms | 0 KB | Python3 | [`cc_1786770858128_Attempt_1_AC.py`](./cc_1786770858128_Attempt_1_AC.py) |
 | 2 | cc_1786771143270 | 8/15/2026, 10:49:08 AM | ✅ Accepted | 0 ms | 0 KB | Python3 | [`cc_1786771143270_Attempt_2_AC.py`](./cc_1786771143270_Attempt_2_AC.py) |
 | 3 | cc_1786771157015 | 8/15/2026, 10:49:21 AM | ❌ Wrong Answer | 0 ms | 0 KB | C++ | [`cc_1786771157015_Attempt_3_WA.cpp`](./cc_1786771157015_Attempt_3_WA.cpp) |
+| 4 | cc_1786771157015 | 8/15/2026, 10:49:26 AM | ❌ Wrong Answer | 0 ms | 0 KB | C++ | [`cc_1786771157015_Attempt_4_WA.cpp`](./cc_1786771157015_Attempt_4_WA.cpp) |

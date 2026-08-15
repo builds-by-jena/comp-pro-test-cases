@@ -75,3 +75,4 @@ baaba
 | 3 | cc_1786771262884 | 8/15/2026, 10:51:12 AM | ❌ Wrong Answer | 0 ms | 0 KB | PyPy 3 | [`cc_1786771262884_Attempt_3_WA.py`](./cc_1786771262884_Attempt_3_WA.py) |
 | 4 | cc_1786771282101 | 8/15/2026, 10:51:26 AM | ❌ Wrong Answer | 0 ms | 0 KB | JavaScript | [`cc_1786771282101_Attempt_4_WA.js`](./cc_1786771282101_Attempt_4_WA.js) |
 | 5 | cc_1786771282101 | 8/15/2026, 10:51:31 AM | ❌ Wrong Answer | 0 ms | 0 KB | JavaScript | [`cc_1786771282101_Attempt_5_WA.js`](./cc_1786771282101_Attempt_5_WA.js) |
+| 6 | cc_1786771376838 | 8/15/2026, 10:53:11 AM | ✅ Accepted | 0 ms | 0 KB | Go | [`cc_1786771376838_Attempt_6_AC.go`](./cc_1786771376838_Attempt_6_AC.go) |

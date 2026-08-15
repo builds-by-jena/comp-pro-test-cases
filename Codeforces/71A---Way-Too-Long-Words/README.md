@@ -75,3 +75,4 @@ p43s
 | 19 | 385217853 | Aug/02/2026 07:21UTC+5.5 | ✅ Accepted | 31 ms | 100 KB | C++20 (GCC 13-64) | [`385217853_Attempt_19_AC.cpp`](./385217853_Attempt_19_AC.cpp) |
 | 20 | 385217904 | Aug/02/2026 07:23UTC+5.5 | ✅ Accepted | 46 ms | 0 KB | C++20 (GCC 13-64) | [`385217904_Attempt_20_AC.cpp`](./385217904_Attempt_20_AC.cpp) |
 | 21 | 387102600 | Aug/15/2026 09:52UTC+5.5 | ✅ Accepted | 31 ms | 100 KB | C++20 (GCC 13-64) | [`387102600_Attempt_21_AC.cpp`](./387102600_Attempt_21_AC.cpp) |
+| 22 | 387102649 | Aug/15/2026 09:53UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | C++20 (GCC 13-64) | [`387102649_Attempt_22_CE.cpp`](./387102649_Attempt_22_CE.cpp) |

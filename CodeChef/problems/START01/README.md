@@ -61,3 +61,4 @@ Standard Output
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | cc_1786769594769 | 8/15/2026, 10:23:16 AM | ❌ Time Limit Exceeded | 0 ms | 0 KB | English | [`cc_1786769594769_Attempt_1_TLE.sh`](./cc_1786769594769_Attempt_1_TLE.sh) |
 | 2 | cc_1786769604721 | 8/15/2026, 10:23:26 AM | ❌ Time Limit Exceeded | 0 ms | 0 KB | English | [`cc_1786769604721_Attempt_2_TLE.sh`](./cc_1786769604721_Attempt_2_TLE.sh) |
+| 3 | cc_1786769620838 | 8/15/2026, 10:23:42 AM | ❌ Time Limit Exceeded | 0 ms | 0 KB | English | [`cc_1786769620838_Attempt_3_TLE.sh`](./cc_1786769620838_Attempt_3_TLE.sh) |

@@ -48,3 +48,4 @@ For example, the boys can divide the watermelon into two parts of 2 and 6 kilos 
 | 1 | 387102354 | Aug/15/2026 09:48UTC+5.5 | ✅ Accepted | 468 ms | 1600 KB | Java 21 | [`387102354_Attempt_1_AC.java`](./387102354_Attempt_1_AC.java) |
 | 2 | 387102417 | Aug/15/2026 09:49UTC+5.5 | ❌ Compilation error | 0 ms | 0 KB | Java 21 | [`387102417_Attempt_2_CE.java`](./387102417_Attempt_2_CE.java) |
 | 3 | 387102450 | Aug/15/2026 09:50UTC+5.5 | ❌ Runtime error on test 1 | 374 ms | 0 KB | Java 21 | [`387102450_Attempt_3_RTE.java`](./387102450_Attempt_3_RTE.java) |
+| 4 | 387102513 | Aug/15/2026 09:51UTC+5.5 | ✅ Accepted | 62 ms | 100 KB | C++20 (GCC 13-64) | [`387102513_Attempt_4_AC.cpp`](./387102513_Attempt_4_AC.cpp) |

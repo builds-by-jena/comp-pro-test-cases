@@ -1,9 +1,9 @@
 <h1 align="center">⚡ Competitive Programming Hub</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Problems%20Solved-14-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Total%20Files-37-0969da?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Accuracy-54.1%25-bf8700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Problems%20Solved-15-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20Files-38-0969da?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accuracy-55.3%25-bf8700?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Synced%20With-CP--GitSync-8250df?style=for-the-badge" />
 </p>
 
@@ -19,11 +19,11 @@
 
 | Metric | Count / Status |
 | :---: | :---: |
-| 🎯 **Total Solved Problems** | **`14`** |
-| 📂 **Total Solutions & Attempts** | **`37`** |
-| ✅ **Accepted Solutions** | **`20`** |
+| 🎯 **Total Solved Problems** | **`15`** |
+| 📂 **Total Solutions & Attempts** | **`38`** |
+| ✅ **Accepted Solutions** | **`21`** |
 | ❌ **Debugging Submissions (WA / RTE / TLE)** | **`17`** |
-| 📈 **Overall First-Pass / Submission Accuracy** | **`54.1%`** |
+| 📈 **Overall First-Pass / Submission Accuracy** | **`55.3%`** |
 
 </div>
 
@@ -39,7 +39,7 @@
 | **LeetCode** | [`/LeetCode`](./LeetCode) | `3` | `6` |
 | **CodeChef** | [`/CodeChef`](./CodeChef) | `5` | `16` |
 | **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | `1` | `3` |
-| **CodeKata (GUVI)** | [`/CodeKata`](./CodeKata) | `3` | `6` |
+| **CodeKata (GUVI)** | [`/CodeKata`](./CodeKata) | `4` | `7` |
 | **HackerRank** | [`/HackerRank`](./HackerRank) | `0` | `0` |
 | **AtCoder** | [`/AtCoder`](./AtCoder) | `0` | `0` |
 
@@ -53,11 +53,11 @@
 
 | Language | Files Tracked | Share |
 | :---: | :---: | :---: |
-| **Python** | `15` | `40.5%` |
-| **C++** | `11` | `29.7%` |
-| **Java** | `8` | `21.6%` |
-| **JavaScript** | `2` | `5.4%` |
-| **Go** | `1` | `2.7%` |
+| **Python** | `16` | `42.1%` |
+| **C++** | `11` | `28.9%` |
+| **Java** | `8` | `21.1%` |
+| **JavaScript** | `2` | `5.3%` |
+| **Go** | `1` | `2.6%` |
 
 </div>
 

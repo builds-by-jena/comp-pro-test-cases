@@ -1,52 +1,68 @@
-# ⚡ Competitive Programming Solutions Hub
+<h1 align="center">⚡ Competitive Programming Hub</h1>
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Problems%20Solved-14-brightgreen?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/Code%20Files-36-blue?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Accuracy-52.8%25-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Synced%20via-CP--GitSync-purple?style=for-the-badge" />
+<p align="center">
+  <img src="https://img.shields.io/badge/Problems%20Solved-14-2ea44f?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/Total%20Files-37-0969da?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Accuracy-54.1%25-bf8700?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Synced%20With-CP--GitSync-8250df?style=for-the-badge" />
 </p>
 
-Automated multi-platform synchronization engine logging code solutions, time & memory complexities, verdicts, and problem statement archives.
+<p align="center">
+  <em>Automated multi-platform synchronization engine logging code solutions, complexity metrics, verdicts, and problem archives.</em>
+</p>
 
 ---
 
-### 📊 Performance Overview
+<h3 align="center">📊 Performance Summary</h3>
 
-| Metric | Count / Percentage |
-| :--- | :---: |
-| 🎯 **Total Unique Problems Solved** | **`14`** |
-| 📂 **Total Solutions & Attempts Tracked** | **`36`** |
-| ✅ **Accepted Attempts** | **`19`** |
-| ❌ **Debugging Attempts (WA/RTE/TLE/CE)** | **`17`** |
-| 📈 **Overall First-Pass / Submission Accuracy** | **`52.8%`** |
+<div align="center">
+
+| Metric | Count / Status |
+| :---: | :---: |
+| 🎯 **Total Solved Problems** | **`14`** |
+| 📂 **Total Solutions & Attempts** | **`37`** |
+| ✅ **Accepted Solutions** | **`20`** |
+| ❌ **Debugging Submissions (WA / RTE / TLE)** | **`17`** |
+| 📈 **Overall First-Pass / Submission Accuracy** | **`54.1%`** |
+
+</div>
 
 ---
 
-### 🌐 Platform Directory
+<h3 align="center">🌐 Supported Platforms</h3>
 
-| Platform | Directory | Unique Solved | Total Solution Files |
-| :--- | :--- | :---: | :---: |
+<div align="center">
+
+| Platform | Directory | Solved | Tracked Files |
+| :---: | :---: | :---: | :---: |
+| **Codeforces** | [`/Codeforces`](./Codeforces) | `2` | `6` |
 | **LeetCode** | [`/LeetCode`](./LeetCode) | `3` | `6` |
-| **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | `1` | `3` |
-| **CodeForces** | [`/Codeforces`](./Codeforces) | `2` | `6` |
-| **CodeKata (GUVI)** | [`/CodeKata`](./CodeKata) | `3` | `5` |
 | **CodeChef** | [`/CodeChef`](./CodeChef) | `5` | `16` |
+| **GeeksforGeeks** | [`/GeeksforGeeks`](./GeeksforGeeks) | `1` | `3` |
+| **CodeKata (GUVI)** | [`/CodeKata`](./CodeKata) | `3` | `6` |
 | **HackerRank** | [`/HackerRank`](./HackerRank) | `0` | `0` |
 | **AtCoder** | [`/AtCoder`](./AtCoder) | `0` | `0` |
 
----
-
-### 💻 Language Distribution
-
-| Language | Total Source Files | Usage Share |
-| :--- | :---: | :---: |
-| **Python** | `14` | `38.9%` |
-| **C++** | `11` | `30.6%` |
-| **Java** | `8` | `22.2%` |
-| **JavaScript** | `2` | `5.6%` |
-| **Go** | `1` | `2.8%` |
+</div>
 
 ---
 
-<sub>⚡ *Automated repository journal generated in real-time by [CP-GitSync](https://github.com).*</sub>
+<h3 align="center">💻 Language Distribution</h3>
+
+<div align="center">
+
+| Language | Files Tracked | Share |
+| :---: | :---: | :---: |
+| **Python** | `15` | `40.5%` |
+| **C++** | `11` | `29.7%` |
+| **Java** | `8` | `21.6%` |
+| **JavaScript** | `2` | `5.4%` |
+| **Go** | `1` | `2.7%` |
+
+</div>
+
+---
+
+<p align="center">
+  <sub>⚡ <em>Automated repository journal generated in real-time by <a href="https://github.com">CP-GitSync</a>.</em></sub>
+</p>

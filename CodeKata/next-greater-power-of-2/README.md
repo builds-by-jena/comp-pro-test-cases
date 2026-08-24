@@ -41,3 +41,4 @@ Standard Output
 | Attempt | Submission ID | Date & Time | Verdict | Runtime | Memory | Language | Solution File |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | 1 | ck_1787613724690 | 8/25/2026, 4:52:07 AM | ✅ Accepted | 65ms | 15kb | PYTHON 3 | [`ck_1787613724690_Attempt_1_AC.py`](./ck_1787613724690_Attempt_1_AC.py) |
+| 2 | ck_1787614030516 | 8/25/2026, 4:57:13 AM | ✅ Accepted | 69ms | 15kb | PYTHON 3 | [`ck_1787614030516_Attempt_2_AC.py`](./ck_1787614030516_Attempt_2_AC.py) |
